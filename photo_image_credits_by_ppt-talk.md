@@ -16,11 +16,11 @@ Research talk. I present this talk at universities as a formal research talk, se
  - image: description and link
  - image: description and link
  - Quaking aspen image: Cover image of P. tremuloides from Wikipedia available at:  https://en.wikipedia.org/wiki/Populus_tremuloides#/media/File:2013-10-06_15_04_21_Aspens_during_autumn_along_the_Changing_Canyon_Nature_Trail_in_Lamoille_Canyon,_Nevada.jpg
-   -o “Aspens during autumn along the Changing Canyon Nature Trail in Lamoille Canyon, Nevada”
-   -o CC BY-SA 3.0
-   -o File:2013-10-06 15 04 21 Aspens during autumn along the Changing Canyon Nature Trail in Lamoille Canyon, Nevada.jpg
-   -o Created: 2013-10-06 15:04:21
-   -o Location: 40° 38′ 36.6″ N, 115° 22′ 42.6″ W
+     - “Aspens during autumn along the Changing Canyon Nature Trail in Lamoille Canyon, Nevada”
+     - CC BY-SA 3.0
+     - File:2013-10-06 15 04 21 Aspens during autumn along the Changing Canyon Nature Trail in Lamoille Canyon, Nevada.jpg
+     - Created: 2013-10-06 15:04:21
+     - Location: 40° 38′ 36.6″ N, 115° 22′ 42.6″ W
  - Bagley et al. (2020) quaking aspen GBS paper outline: screenshot of the title page, available at: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.6214
 #### Research example: Phylogeography & DNA barcoding of Cerrado freshwater fishes
  - Cerrado biome map: Morellato & Silveira (2018), _Flora_, available at URL: [link](https://repositorio.unesp.br/server/api/core/bitstreams/45dc68bc-9457-4119-b53f-d4f65c07099d/content)
