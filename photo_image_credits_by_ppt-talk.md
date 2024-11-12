@@ -16,7 +16,7 @@ Research talk. I present this talk at universities as a formal research talk, se
  - image: description and link
  - image: description and link
 #### Research example: Phylogeography & DNA barcoding of Cerrado freshwater fishes
- - Cerrado biome map: Morellato & Silveira (2018), _Flora_, available at URL: (link)[https://repositorio.unesp.br/server/api/core/bitstreams/45dc68bc-9457-4119-b53f-d4f65c07099d/content]
+ - Cerrado biome map: Morellato & Silveira (2018), _Flora_, available at URL: [link](https://repositorio.unesp.br/server/api/core/bitstreams/45dc68bc-9457-4119-b53f-d4f65c07099d/content)
  - image: description and link 
  - image: description and link 
  - image: description and link 
